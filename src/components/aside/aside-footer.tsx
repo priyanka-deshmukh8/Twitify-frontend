@@ -28,7 +28,7 @@ export function AsideFooter(): JSX.Element {
           </a>
         ))}
       </nav>
-      <p>© 2023 Twitify, Inc.</p>
+      <p>priyanka-deshmukh © 2023 Twitify, Inc.</p>
     </footer>
   );
 }
