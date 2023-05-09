@@ -28,7 +28,7 @@ export function AsideFooter(): JSX.Element {
           </a>
         ))}
       </nav>
-      <p>© 2023 Twitter, Inc.</p>
+      <p>© 2023 Twitify, Inc.</p>
     </footer>
   );
 }
